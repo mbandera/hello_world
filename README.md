@@ -1,2 +1,2 @@
 # hello_world
-this is a hello world repository
+This is a hello world repository. This was created by Maia.
